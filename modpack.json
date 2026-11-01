@@ -1,0 +1,25 @@
+{
+  "minecraftVersion": "1.21.1",
+  "neoForgeVersion": "21.1.265",
+  "files": [
+    {
+      "fileName": "Cobblemon-neoforge-1.8.4+1.21.1.jar",
+      "sha256": "89306baca7b4332fc4dcc448507b45ca0133254c70f77990a63c500ed9a7b863",
+      "size": 141635727,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-4c4ff63e6c09340d/Cobblemon-neoforge-1.8.4%2B1.21.1.jar"
+    },
+    {
+      "fileName": "kotlinforforge-5.12.0-all.jar",
+      "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+      "size": 7279264,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-4c4ff63e6c09340d/kotlinforforge-5.12.0-all.jar"
+    }
+  ],
+  "schemaVersion": 1,
+  "id": "4c4ff63e6c09340dbfd4a81eb6bd1b54f6f56fd17769cf756e052d99600fa87c",
+  "javaMajor": 21,
+  "neoForgeInstaller": {
+    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.265/neoforge-21.1.265-installer.jar",
+    "sha256": "a547ccc30a80a675d1c61d04b55d10c45c39a86971e09731482c50a24399d1a2"
+  }
+}
