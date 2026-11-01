@@ -16,6 +16,8 @@ repo = 'YukiiSZ/Conmine-downloads'
 if not re.fullmatch(r'pack-[0-9a-f]{16}',tag): raise ValueError('Invalid pack id')
 result = subprocess.run(['gh','release','view',tag,'--repo',repo,'--json','isDraft'],capture_output=True,text=True)
 published = result.returncode == 0 and not json.loads(result.stdout)['isDraft']
+if published and not (root/'parts').is_dir():
+    print('Public metadata is clean and its pack is already published.'); raise SystemExit(0)
 out = root/'release'; out.mkdir(exist_ok=True)
 for item in manifest['files']:
     name = item['fileName']
