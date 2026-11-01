@@ -6,7 +6,7 @@ Minecraft Java **1.21.1 + NeoForge**, com o pacote Cobblemon do Conmine.
 
 O instalador permite escolher a pasta. Ao clicar em Jogar, o launcher prepara o jogo e verifica os mods publicados. Os downloads não exigem conta GitHub.
 
-O login por nome local está disponível. As integrações Google e Microsoft aguardam a configuração dos aplicativos do Conmine e não simulam autenticação.
+O acesso é somente por Google ou Microsoft. Essas integrações aguardam a configuração dos aplicativos do Conmine e não simulam autenticação. Sem essa configuração, o launcher permanece na tela de entrada.
 
 ## Arquivos públicos
 
