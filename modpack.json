@@ -1,0 +1,43 @@
+{
+  "minecraftVersion": "1.21.1",
+  "neoForgeVersion": "21.1.265",
+  "files": [
+    {
+      "fileName": "Cobblemon-neoforge-1.8.4+1.21.1.jar",
+      "sha256": "89306baca7b4332fc4dcc448507b45ca0133254c70f77990a63c500ed9a7b863",
+      "size": 141635727,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-e07e1ee97e663ae8/Cobblemon-neoforge-1.8.4%2B1.21.1.jar"
+    },
+    {
+      "fileName": "Conmine-Texturas-6.8-mc1.21.1.jar",
+      "sha256": "f2d66a60b3d3787b4898bd5a72fa3bd12b20b352600481afb8677178b676c97f",
+      "size": 1989089,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-e07e1ee97e663ae8/Conmine-Texturas-6.8-mc1.21.1.jar"
+    },
+    {
+      "fileName": "cobblemonraiddens-neoforge-0.13.5+1.21.1.jar",
+      "sha256": "245a10a82cce38f6e70ff89e075663b7599722d033314960981112e63a3a4e58",
+      "size": 2806727,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-e07e1ee97e663ae8/cobblemonraiddens-neoforge-0.13.5%2B1.21.1.jar"
+    },
+    {
+      "fileName": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
+      "size": 634531,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-e07e1ee97e663ae8/geckolib-neoforge-1.21.1-4.9.3.jar"
+    },
+    {
+      "fileName": "kotlinforforge-5.12.0-all.jar",
+      "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+      "size": 7279264,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-e07e1ee97e663ae8/kotlinforforge-5.12.0-all.jar"
+    }
+  ],
+  "schemaVersion": 1,
+  "id": "e07e1ee97e663ae8092ca91aa5cca80459080a95ee1eefa1a70fafa633f8bc0d",
+  "javaMajor": 21,
+  "neoForgeInstaller": {
+    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.265/neoforge-21.1.265-installer.jar",
+    "sha256": "a547ccc30a80a675d1c61d04b55d10c45c39a86971e09731482c50a24399d1a2"
+  }
+}
