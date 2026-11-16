@@ -1,0 +1,61 @@
+{
+  "minecraftVersion": "1.21.1",
+  "neoForgeVersion": "21.1.265",
+  "files": [
+    {
+      "fileName": "Cobblemon-neoforge-1.8.4+1.21.1.jar",
+      "sha256": "89306baca7b4332fc4dcc448507b45ca0133254c70f77990a63c500ed9a7b863",
+      "size": 141635727,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/Cobblemon-neoforge-1.8.4%2B1.21.1.jar"
+    },
+    {
+      "fileName": "Conmine-Shaders-1.0.0-mc1.21.1.jar",
+      "sha256": "552323f2318f2d5ac895d54b043714fd33fdc6e58824ff54ecaeda519f6ab3f5",
+      "size": 20094,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/Conmine-Shaders-1.0.0-mc1.21.1.jar"
+    },
+    {
+      "fileName": "Conmine-Texturas-4.0-mc1.21.1.jar",
+      "sha256": "904abf8ea9d0382f7b2513e4849e1987962e0d0024ca8c6f87f5b88c7dde5afd",
+      "size": 1986259,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/Conmine-Texturas-4.0-mc1.21.1.jar"
+    },
+    {
+      "fileName": "cobblemonraiddens-neoforge-0.13.5+1.21.1.jar",
+      "sha256": "245a10a82cce38f6e70ff89e075663b7599722d033314960981112e63a3a4e58",
+      "size": 2806727,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/cobblemonraiddens-neoforge-0.13.5%2B1.21.1.jar"
+    },
+    {
+      "fileName": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
+      "size": 634531,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/geckolib-neoforge-1.21.1-4.9.3.jar"
+    },
+    {
+      "fileName": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "size": 2438548,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+    },
+    {
+      "fileName": "kotlinforforge-5.12.0-all.jar",
+      "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+      "size": 7279264,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/kotlinforforge-5.12.0-all.jar"
+    },
+    {
+      "fileName": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "size": 1162994,
+      "url": "https://github.com/YukiiSZ/Conmine-downloads/releases/download/pack-d2b74aefb4d79196/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+    }
+  ],
+  "schemaVersion": 1,
+  "id": "d2b74aefb4d79196ebf363021d2ee5af310bf52deee0a2f780e25e5601df5e67",
+  "javaMajor": 21,
+  "neoForgeInstaller": {
+    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.265/neoforge-21.1.265-installer.jar",
+    "sha256": "a547ccc30a80a675d1c61d04b55d10c45c39a86971e09731482c50a24399d1a2"
+  }
+}
